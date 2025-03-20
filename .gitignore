@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+pfaenv/
+
+# Environment variables
+.env
+*.env
+
+# Logs and database files
+logs/
+*.log
+*.sqlite3
+*.db
+
+# Cache and temporary files
+*.swp
+*.swo
+.DS_Store
+*.bak
+
+# Python dependency files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Testing and coverage
+htmlcov/
+.coverage
+.tox/
+.nox/
+
+# Build and distribution files
+dist/
+build/
+*.egg-info/
